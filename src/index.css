@@ -24,7 +24,7 @@ body {
 }
 
 h1 {
-    font-size: 3rem;
+    font-size: 3em;
     padding: 10px 0px;
 }
 
@@ -78,7 +78,7 @@ button:hover {
     input {
         margin: 5px 0px;
         width: 100%;
-        padding: 30px;
+        padding: 10px;
         outline: none;
         border: none;
         text-align: center;
