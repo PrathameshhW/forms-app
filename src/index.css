@@ -71,6 +71,10 @@ button:hover {
         width: 100%;
     }
 
+    h1 {
+        font-size: 1rem;
+    }
+
     input {
         margin: 5px 0px;
         width: 100%;
