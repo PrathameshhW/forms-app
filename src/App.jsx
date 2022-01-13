@@ -17,24 +17,6 @@ const App = () => {
         ...preVal,
         [name]: value,
       };
-
-      // if (name === "fname") {
-      //   return {
-      //     fname: value,
-      //     lname: preVal.lname,
-      //   };
-      // } else if (name === "lname") {
-      //   return {
-      //     fname: preVal.fname,
-      //     lname: value,
-      //   };
-      // } else if (name === "email") {
-      //   return {
-      //     fname: preVal.fname,
-      //     lname: preVal.lname,
-      //     email: value,
-      //   };
-      // }
     });
   };
 
